@@ -1,4 +1,4 @@
-##requirements perl
+##requirements perl.
 ```
 sudo pacman -S perl
 ```
