@@ -1,10 +1,10 @@
 # exiftool
 
-##requirements perl
+# requirements perl
 ```
 sudo pacman -S perl
 ```
-##instalation
+# instalation
 ```
 git clone https://github.com/Doctype02/exiftool.git
 perl Makefile.PL
