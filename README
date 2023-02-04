@@ -1,3 +1,12 @@
+#instalation
+```
+git clone https://github.com/Doctype02/exiftool.git
+perl Makefile.PL
+make
+sudo make install
+
+```
+
 ExifTool by Phil Harvey (philharvey66 at gmail.com)
 ----------------------------------------------------------------------------
 
