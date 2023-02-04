@@ -1,4 +1,4 @@
-#instalation
+##instalation
 ```
 git clone https://github.com/Doctype02/exiftool.git
 perl Makefile.PL
