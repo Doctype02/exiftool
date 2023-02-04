@@ -1,3 +1,7 @@
+##requirements perl
+```
+sudo pacman -S perl
+```
 ##instalation
 ```
 git clone https://github.com/Doctype02/exiftool.git
