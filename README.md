@@ -39,23 +39,14 @@ supported by ExifTool (r = read, w = write, c = create):
   
   ------------+-------------+-------------+-------------+------------
   360   r/w   | DPX   r     | ITC   r     | NRW   r/w   | RAM   r
-  
-  3FR   r     | DR4   r/w/c | J2C   r     | NUMBERS r   | RAR   r
-  
-  3G2   r/w   | DSS   r     | JNG   r/w   | O     r     | RAW   r/w
-  
+  3FR   r     | DR4   r/w/c | J2C   r     | NUMBERS r   | RAR   r 
+  3G2   r/w   | DSS   r     | JNG   r/w   | O     r     | RAW   r/w 
   3GP   r/w   | DV    r     | JP2   r/w   | ODP   r     | RIFF  r
-  
   A     r     | DVB   r/w   | JPEG  r/w   | ODS   r     | RSRC  r
-  
   AA    r     | DVR-MS r    | JSON  r     | ODT   r     | RTF   r
-  
   AAE   r     | DYLIB r     | JXL   r     | OFR   r     | RW2   r/w
-  
   AAX   r/w   | EIP   r     | K25   r     | OGG   r     | RWL   r/w
-  
   ACR   r     | EPS   r/w   | KDC   r     | OGV   r     | RWZ   r
-  
   AFM   r     | EPUB  r     | KEY   r     | ONP   r     | RM    r
   AI    r/w   | ERF   r/w   | LA    r     | OPUS  r     | SEQ   r
   AIFF  r     | EXE   r     | LFP   r     | ORF   r/w   | SKETCH r
